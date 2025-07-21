@@ -1,20 +1,20 @@
 # 🔗 Short URL - Frontend
 
-Este é o **frontend** do projeto **Short URL**, um encurtador de links desenvolvido com **React**, **Vite** e **TailwindCSS**, que consome uma API construída com **AWS Lambda**, **API Gateway** e **Amazon S3**.
+This is the **frontend** of the **Short URL** project — a link shortener built using **React**, **Vite**, and **TailwindCSS**. It consumes a backend API developed with **AWS Lambda**, **API Gateway**, and **Amazon S3**.
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Encurtar links longos em segundos
-- Geração de URLs curtas personalizadas
-- Integração com API AWS Serverless
-- Botão para copiar o link gerado para a área de transferência
-- Design responsivo com TailwindCSS
+- Quickly shorten long links
+- Custom short URL generation
+- Integration with AWS serverless backend
+- Copy button for the generated short link
+- Fully responsive UI with TailwindCSS
 
 ---
 
-## 🧪 Tecnologias utilizadas
+## 🧪 Tech Stack
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
@@ -26,10 +26,9 @@ Este é o **frontend** do projeto **Short URL**, um encurtador de links desenvol
 
 ---
 
-## 🌐 Acesse o projeto online
+## 🌐 Live Demo
 
-> ✅ Projeto hospedado via GitHub Pages:
-  
+> ✅ Hosted on GitHub Pages:
+
 🔗 [https://athosmfr.github.io/short-url-project/](https://athosmfr.github.io/short-url-project/)
 
----
